@@ -1,5 +1,5 @@
-# CMPM 118 (NCG): Introduction to Deep Learning Research
-Syllabus for CMPM 118 in the Neurimorphic Computing Group (NCG) w/ Prof. Jason Eshraghian
+# CMPM 118 / NCG / Education Group Syllabus 
+Syllabus for the education portion of CMPM 118 w/ Prof. Jason Eshraghian
 ## Course Description
 This course provides an introduction to deep learning from the perspective of undergraduate research. It emphasizes theoretical understanding, analysis, teamwork, and research skills. By the end of this course, students will be equipped to meaningfully contribute to an undergraduate lab at UCSC with a focus on AI research.
 
@@ -39,10 +39,10 @@ I am an AI researcher at the intersection of biology and artificial intelligence
 | 4 | Convolutional networks | Deep Learning Book: 9.0-9.3, 9.10 |
 | 5 | Recurrent networks, BPTT | Deep Learning Book: 10.0-10.4 |
 | 6 | Language Modeling, Transformers | A Survey On Transformers |
-| 7 | LLM | On The Opportunities And Risks of Foundation Models (1.0-1.4, 2.0-2.2, 4.0-4.4) |
+| 7 | Large Language (Foundation) Models | On The Opportunities And Risks of Foundation Models (1.0-1.4, 2.0-2.2, 4.0-4.4) |
 | 8 | Vision Attention & Efficient Attention Mechanisms | Efficient Attention: Attention With Linear Complexities |
-| 9 | Explainable and interpretable systems | Explaining Explanations: An Overview of Interpretability of Machine Learning |
-| 10 | Spiking Neural Networks | Training Spiking Neural Networks Using Lessons From Deep Learning | 
+| 9 | Spiking Neural Networks | Training Spiking Neural Networks Using Lessons From Deep Learning | 
+| 10 | Final Project Presentations | NA | 
 
 
 ## Diversity and Inclusion
