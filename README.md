@@ -16,14 +16,14 @@ Your next step depends on your current status. Please click on the link that app
 
 You will begin in the Educational Track. This path is designed to give you a solid foundation in deep learning.
 
-* **Syllabus:** https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/syllabi/education.md
+* **[Syllabus](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/syllabi/education.md)**
 * **Next Steps:** Please complete the [CMPM 118 Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLSecCLmML6xFM2hLMfF01Aa9y10y9EyMK1S0YU2LiCsH6rOFtA/viewform?usp=sharing&ouid=112923047501030419954) to provide us with information about your background and interests.
 
 **I am a returning student interested in joining a research group**
 If you are a returning student looking to transition into a research group, you will need to complete the application process within the [CMPM 118 Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLSecCLmML6xFM2hLMfF01Aa9y10y9EyMK1S0YU2LiCsH6rOFtA/viewform?usp=sharing&ouid=112923047501030419954).
 
-* **Syllabus:** https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/syllabi/research.md
-* Next Steps : Please complete the [CMPM 118 Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLSecCLmML6xFM2hLMfF01Aa9y10y9EyMK1S0YU2LiCsH6rOFtA/viewform?usp=sharing&ouid=112923047501030419954) and indicate your interest in a research group. Your responses will be reviewed by research mentors.
+* **[Syllabus](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/syllabi/research.md)**
+* **Next Steps:** Please complete the [CMPM 118 Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLSecCLmML6xFM2hLMfF01Aa9y10y9EyMK1S0YU2LiCsH6rOFtA/viewform?usp=sharing&ouid=112923047501030419954) and indicate your interest in a research group. Your responses will be reviewed by research mentors.
 
 Key Reminders
 
