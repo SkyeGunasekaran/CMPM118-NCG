@@ -1,4 +1,4 @@
-# CMPM 118 / NCG / Education Group Syllabus 
+# CMPM 118 / Neuromorphic Computing Group / Education Group Syllabus 
 Syllabus for the education portion of CMPM 118 w/ Prof. Jason Eshraghian
 ## Course Description
 This course provides an introduction to deep learning from the perspective of undergraduate research. It emphasizes theoretical understanding, analysis, teamwork, and research skills. By the end of this course, students will be equipped to meaningfully contribute to an undergraduate lab at UCSC with a focus on AI research.
