@@ -3,6 +3,7 @@ Syllabus for the research portion of CMPM 118 w/ Prof. Jason Eshraghian
 
 ## Course Description 
 This course serves as a structured pathway for undergraduate researchers in the Neuromorphic Computing Group. Students will participate in group projects spanning several quarters, with the aim of publishing novel research in an undergraduate-focused conference or journal (e.g., Baylearn, ICLR Tiny Papers). Select groups may also choose to pursue non-research projects, such as making significant open-source code contributions, authoring a comprehensive literature review, or tackling a competitive challenge (e.g., Kaggle).
+
 **Instructor:** Skye Gunasekaran (akgunase@ucsc.edu)
 
 **Location & Time:** TBD @ TBD 
