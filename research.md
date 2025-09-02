@@ -34,13 +34,11 @@ I am an AI researcher at the intersection of biology and artificial intelligence
 ## Schedule 
 | Week(s) | Focus | Deliverables | 
 | ---- | ----- | ------------ |
-| 1-3 | Project Scoping & Deep Literature Review | Defined problem statement, Annotated bibliography |
-| 4 | Midterm Presentation 1 | Presentation on background, proposed methods, and initial steps. |
-| 5 | Experimental Design & Methodology | Detailed experimental plan; Initial codebase/setup |
-| 6-7 | Active Research & Experimentation | Initial experiments and results |
-| 8 | Midterm Presentation 2 | Presentation of preliminary results & findings |
-| 9 | Final Report Outlining | Outline of final paper/report |
-| 10 | Final Presentations & Project Submission | Final presentation of project results |
+| 1-2 | Project Scoping & Deep Literature Review | Defined problem statement and annotated bibliography |
+| 3 | Midterm Presentation 1 | Presentation on background, proposed methods, and initial steps |
+| 4-6 | Active Research & Experimentation | Weeekly reports on experiments and results |
+| 7 | Midterm Presentation 2 | Presentation of preliminary results; Outline of final paper/report |
+| 8-10 | Final Presentations & Project Submission | Final presentation of project results; Submission of final report/code |
 
 ## Diversity and Inclusion
 
