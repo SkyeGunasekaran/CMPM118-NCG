@@ -38,10 +38,10 @@ I am an AI researcher at the intersection of biology and artificial intelligence
 | 3 | Gradient Descent, Backpropagation, Optimization | Deep Learning Book: 6.5, 8.0-8.3 |
 | 4 | Convolutional networks | Deep Learning Book: 9.0-9.3, 9.10 |
 | 5 | Recurrent networks, BPTT | Deep Learning Book: 10.0-10.4 |
-| 6 | Language Modeling, Transformers | A Survey On Transformers |
-| 7 | Large Language (Foundation) Models | On The Opportunities And Risks of Foundation Models (1.0-1.4, 2.0-2.2, 4.0-4.4) |
-| 8 | Vision Attention & Efficient Attention Mechanisms | Efficient Attention: Attention With Linear Complexities |
-| 9 | Spiking Neural Networks | Training Spiking Neural Networks Using Lessons From Deep Learning | 
+| 6 | Language Modeling, Transformers | A Survey Of Transformers |
+| 7 | Large Language (Foundation) Models | A Review of Current Trends, Techniques, and Challenges in Large Language Models (LLMs) |
+| 8 | Spiking Neural Networks 1 | Training Spiking Neural Networks Using Lessons From Deep Learning |
+| 9 | Spiking Neural Networks 2 | Training Spiking Neural Networks Using Lessons From Deep Learning | 
 | 10 | Final Project Presentations | NA | 
 
 
