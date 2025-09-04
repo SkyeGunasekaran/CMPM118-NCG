@@ -28,7 +28,7 @@ I am an AI researcher at the intersection of biology and artificial intelligence
 ## Grading
 
 * **Weekly Reports (30%):** Professionally styled documentation detailing the work each member contributed to the project on a weekly basis.
-* **Midterm Presentations (30%):** Occurring in Weeks 4 and 8, these will be recorded or in-person slide deck presentations on your research in progress.
+* **Midterm Presentations (30%):** Occurring in Weeks 3 and 7, these will be recorded or in-person slide deck presentations on your research in progress.
 * **Final Project (40%):** The final deliverable will be an in-progress or completed novel research project on a selected topic in Deep Learning and Neuromorphic Computing.
 
 ## Schedule 
