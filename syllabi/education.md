@@ -3,17 +3,23 @@ Syllabus for the education portion of CMPM 118 w/ Prof. Jason Eshraghian
 ## Course Description
 This course provides an introduction to deep learning from the perspective of undergraduate research. It emphasizes theoretical understanding, analysis, teamwork, and research skills. By the end of this course, students will be equipped to meaningfully contribute to an undergraduate lab at UCSC with a focus on AI research.
 
-**Instructor:** Skye Gunasekaran (akgunase@ucsc.edu)
+**Instructors:** Skye Gunasekaran (akgunase@ucsc.edu) & Jason Eshraghian (jsn@ucsc.edu)
 
-**Location & Time:** 5:20-6:55pm Tuesday @ Location TBD 
+**Location & Time:** 5:20-6:55pm Tu/Th @ Location TBD 
 
-## Biography
+* Tuesdays: In-Class Lectures \& Coding Session
+* Thursdays: Self-guided Project Sessions
+
+## Biography: Skye
 I am an AI researcher at the intersection of biology and artificial intelligence. My research has applications in time-series forecasting, medical event prediction, genomics, and bridging natural and artificial intelligence. [Google scholar](https://scholar.google.com/citations?user=R_XFG5EAAAAJ&hl=en)
+
+## Biography: Jason
+I am just trying my best. 
 
 ## Course Outcomes 
 
 * Grasp the theory behind neural networks, optimization, and modern architectures.
-* Implement and train deep learning models using PyTorch, the leading AI framework.
+* Implement and train deep learning models using PyTorch.
 * Collaborate on a final research project, culminating in a contribution to the lab.
 
 ## Suggested Prerequisites 
@@ -26,9 +32,9 @@ I am an AI researcher at the intersection of biology and artificial intelligence
 
 ## Grading
 
-* **Homework (30%):** Bi-weekly coding assignments in pytorch based on selected class material.
+* **Homework (30%):** Bi-weekly coding assignments in PyTorch based on selected class material.
 * **Weekly Quizzes (30%):** Due at the end of each week, will test your comprehension of the reading materials and lecture slides. 
-* **Final Project (40%):** A flexible experience consisting of either a coding challenge (e.g., on Kaggle), a novel research project with the goal of publication, or contribute to open-source by creating a tutorial or tool.
+* **Final Project & Presentation (40%):** A flexible experience consisting of either a coding challenge (e.g., on Kaggle), a novel research project with the goal of publication, or contribute to open-source by creating a tutorial or tool.
 
 ## Schedule 
 | Week | Topics | Readings | 
