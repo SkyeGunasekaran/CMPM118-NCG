@@ -5,7 +5,7 @@ This course provides an introduction to deep learning from the perspective of un
 
 **Instructor:** Skye Gunasekaran (akgunase@ucsc.edu)
 
-**Location & Time:** TBD @ TBD 
+**Location & Time:** 5:20-6:55pm Tuesday @ Location TBD 
 
 ## Biography
 I am an AI researcher at the intersection of biology and artificial intelligence. My research has applications in time-series forecasting, medical event prediction, genomics, and bridging natural and artificial intelligence. [Google scholar](https://scholar.google.com/citations?user=R_XFG5EAAAAJ&hl=en)
