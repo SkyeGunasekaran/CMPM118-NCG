@@ -27,7 +27,7 @@ If you are a returning student looking to transition into a research group, you 
 * **Next Steps:** Please complete the [CMPM 118 Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLSecCLmML6xFM2hLMfF01Aa9y10y9EyMK1S0YU2LiCsH6rOFtA/viewform?usp=sharing&ouid=112923047501030419954) and indicate your interest in a research group. Your responses will be reviewed by research mentors.
 
 Key Reminders
-
+* **Applications close on September 19 11:59PM PST.**
 * All students interested in joining either the research or education group must complete the [CMPM 118 Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLSecCLmML6xFM2hLMfF01Aa9y10y9EyMK1S0YU2LiCsH6rOFtA/viewform?usp=sharing&ouid=112923047501030419954).
 * Research group placement is competitive and is not guaranteed. All new students must participate in the Educational Track.
 * New students must upload their CV as part of the student information form.
