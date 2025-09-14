@@ -5,7 +5,7 @@ This course provides an introduction to deep learning from the perspective of un
 
 **Instructors:** Skye Gunasekaran (akgunase@ucsc.edu) & Jason Eshraghian (jsn@ucsc.edu)
 
-**Location & Time:** 5:20-6:55pm Tu/Th @ Location TBD 
+**Location & Time:** 5:20-6:55pm Tuesday @ Engineering 2 Room 194
 
 * Tuesdays: In-Class Lectures \& Coding Session
 * Thursdays: Self-guided Project Sessions
@@ -14,7 +14,7 @@ This course provides an introduction to deep learning from the perspective of un
 I am an AI researcher at the intersection of biology and artificial intelligence. My research has applications in time-series forecasting, medical event prediction, genomics, and bridging natural and artificial intelligence. [Google scholar](https://scholar.google.com/citations?user=R_XFG5EAAAAJ&hl=en)
 
 ## Biography: Jason
-I am just trying my best. 
+Jason K. Eshraghian is an Assistant Professor with the Department of Electrical and Computer Engineering, University of California, Santa Cruz. He received the Bachelor of Engineering (Electrical and Electronic) and the Bachelor of Laws degrees from The University of Western Australia, WA, Australia, in 2016, where he also received the Ph.D. Degree in 2019. From 2019 to 2022, he was a Post-Doctoral Research Fellow at the University of Michigan, MI, USA. He serves as the Secretary of the Neural Systems and Applications Technical Committee and as an Associate Editor for APL Machine Learning.
 
 ## Course Outcomes 
 
