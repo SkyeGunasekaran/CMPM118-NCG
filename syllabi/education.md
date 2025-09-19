@@ -46,7 +46,7 @@ Jason K. Eshraghian is an Assistant Professor with the Department of Electrical 
 | 5 | Recurrent networks, BPTT | Deep Learning Book: 10.0-10.4 |
 | 6 | Language Modeling, Transformers | A Survey Of Transformers |
 | 7 | Large Language (Foundation) Models | A Review of Current Trends, Techniques, and Challenges in Large Language Models (LLMs) |
-| 8 | Spiking Neural Networks 1 | Training Spiking Neural Networks Using Lessons From Deep Learning |
+| 8 | Event-based Data | [ipynb notebook](https://github.com/gcohen/AMOS-Short-Course) |
 | 9 | Spiking Neural Networks 2 | Training Spiking Neural Networks Using Lessons From Deep Learning | 
 | 10 | Final Project Presentations | NA | 
 
