@@ -40,13 +40,13 @@ Jason K. Eshraghian is an Assistant Professor with the Department of Electrical 
 | Week | Topics |
 | ---- | ------ | 
 | 1 | [Machine Learning Basics](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/1_ml_basics.md) | 
-| 2 | Neural Networks |
-| 3 | Gradient Descent, Backpropagation, Optimization | 
-| 4 | Convolutional networks |
-| 5 | Recurrent networks, BPTT | 
-| 6 & 7 | Language Modeling, Transformers | 
-| 8 | Event-based Data |
-| 9 | Spiking Neural Networks 2 | 
+| 2 | [Neural Networks](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/2_neuralnets.md) |
+| 3 | [Gradient Descent, Backpropagation, Optimization]((https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/3_training.md)) | 
+| 4 | [Convolutional networks](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/4_cnn.md) |
+| 5 | [Recurrent networks, BPTT](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/5_rnns.md) | 
+| 6 & 7 | [Language Modeling, Transformers](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/6_llms.md) | 
+| 8 | [Event-based Data](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/8_events.md) |
+| 9 | [Spiking Neural Networks](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/9_snns.md) | 
 | 10 | Final Project Presentations |
 
 <!-- | Week | Topics | Material | 
