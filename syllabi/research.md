@@ -8,9 +8,6 @@ This course serves as a structured pathway for undergraduate researchers in the 
 
 **Location & Time:** Asynchronous @ TBD 
 
-## Biography
-I am an AI researcher at the intersection of biology and artificial intelligence. My research has applications in time-series forecasting, medical event prediction, genomics, and bridging natural and artificial intelligence. [Google scholar](https://scholar.google.com/citations?user=R_XFG5EAAAAJ&hl=en)
-
 ## Course Outcomes 
 
 * Conduct novel research in AI and Neuromorphic Computing with the goal of conference or journal publication.
