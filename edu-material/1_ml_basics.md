@@ -1,4 +1,4 @@
-# ML Basics — Starter Kit
+# ML Basics
 
 ## Background
 

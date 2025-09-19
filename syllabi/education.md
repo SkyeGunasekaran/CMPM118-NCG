@@ -35,7 +35,7 @@ This course provides an introduction to deep learning from the perspective of un
 | ---- | ------ | 
 | 1 | [Machine Learning Basics](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/1_ml_basics.md) | 
 | 2 | [Neural Networks](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/2_neuralnets.md) |
-| 3 | [Gradient Descent, Backpropagation, Optimization]((https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/3_training.md)) | 
+| 3 | [Gradient Descent, Backpropagation, Optimization](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/3_training.md) | 
 | 4 | [Convolutional networks](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/4_cnn.md) |
 | 5 | [Recurrent networks, BPTT](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/5_rnns.md) | 
 | 6 & 7 | [Language Modeling, Transformers](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/6_llms.md) | 
