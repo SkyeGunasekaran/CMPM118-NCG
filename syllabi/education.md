@@ -37,18 +37,29 @@ Jason K. Eshraghian is an Assistant Professor with the Department of Electrical 
 * **Final Project & Presentation (40%):** A flexible experience consisting of either a coding challenge (e.g., on Kaggle), a novel research project with the goal of publication, or contribute to open-source by creating a tutorial or tool.
 
 ## Schedule 
-| Week | Topics | Readings | 
+| Week | Topics |
+| ---- | ------ | 
+| 1 | [Machine Learning Basics](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/1_ml_basics.md) | 
+| 2 | Neural Networks |
+| 3 | Gradient Descent, Backpropagation, Optimization | 
+| 4 | Convolutional networks |
+| 5 | Recurrent networks, BPTT | 
+| 6 & 7 | Language Modeling, Transformers | 
+| 8 | Event-based Data |
+| 9 | Spiking Neural Networks 2 | 
+| 10 | Final Project Presentations |
+
+<!-- | Week | Topics | Material | 
 | ---- | ------ | -------- |
 | 1 | Machine Learning Basics | Deep Learning Book: 5.0-5.8 |
-| 2 | Multilayer perceptron | Deep Learning Book: 6.0-6.4 |
+| 2 | Neural Networks | Deep Learning Book: 6.0-6.4 |
 | 3 | Gradient Descent, Backpropagation, Optimization | Deep Learning Book: 6.5, 8.0-8.3 |
 | 4 | Convolutional networks | Deep Learning Book: 9.0-9.3, 9.10 |
 | 5 | Recurrent networks, BPTT | Deep Learning Book: 10.0-10.4 |
-| 6 | Language Modeling, Transformers | A Survey Of Transformers |
-| 7 | Large Language (Foundation) Models | A Review of Current Trends, Techniques, and Challenges in Large Language Models (LLMs) |
+| 6 & 7 | Language Modeling, Transformers | A Survey Of Transformers |
 | 8 | Event-based Data | [ipynb notebook](https://github.com/gcohen/AMOS-Short-Course) |
 | 9 | Spiking Neural Networks 2 | Training Spiking Neural Networks Using Lessons From Deep Learning | 
-| 10 | Final Project Presentations | NA | 
+| 10 | Final Project Presentations | NA |  -->
 
 
 ## Diversity and Inclusion
