@@ -29,3 +29,4 @@ This includes object detection, segmentation, image generation, etc.
 * [Object detection](https://youtu.be/svn9-xV7wjk?si=F4x_RkltMSTliec6) - the most common architecture is the YOLO family lmao
 * [Image Segmentation with U-Net from scratch](https://youtu.be/IHq1t7NxS8k?si=dqK_6zrkr3x1tdU0)
 * [Breast Cancer Detection using CNNs](https://www.nature.com/articles/s41586-019-1799-6) - A mate from Google worked on this paper. This is an extremely high-quality paper. CNNs are used, but a major part of the novelty is in how AI was integrated into the clinical workflow. 
+* [Heart disease Detection using a 1D CNN](https://www.nature.com/articles/s41591-018-0268-3) - Andrew Ng's lab published this a while ago. They used 1D convolutions (everything above is a 2D convolution), which turns out to be useful for time-series data. Also a high-quality paper.
