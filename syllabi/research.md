@@ -32,10 +32,10 @@ This course serves as a structured pathway for undergraduate researchers in the 
 | Week(s) | Focus | Deliverables | 
 | ---- | ----- | ------------ |
 | 1-2 | Project Scoping & Deep Literature Review | Defined problem statement and annotated bibliography |
-| 3 | Midterm Presentation 1 | Presentation on background, proposed methods, and initial steps |
-| 4-6 | Active Research & Experimentation | Weeekly reports on experiments and results |
-| 7 | Midterm Presentation 2 | Presentation of preliminary results; Outline of final paper/report |
-| 8-10 | Final Presentations & Project Submission | Final presentation of project results; Submission of final report/code |
+| 3-4 | Active Research & Experimentation | Weeekly reports on experiments and results |
+| 5 | Midterm Presentation | Presentation on background, proposed methods, and initial steps |
+| 6-9 | Active Research & Experimentation | Weeekly reports on experiments and results |
+| 10 | Final Presentation & Project Submission | Final presentation of project results; Submission of final report/code |
 
 ## Diversity and Inclusion
 
