@@ -24,9 +24,11 @@ This course serves as a structured pathway for undergraduate researchers in the 
 
 ## Grading
 
-* **Weekly Reports (30%):** Professionally styled documentation detailing the work each member contributed to the project on a weekly basis.
-* **Midterm Presentations (30%):** Occurring in Weeks 3 and 7, these will be recorded or in-person slide deck presentations on your research in progress.
-* **Final Project (40%):** The final deliverable will be an in-progress or completed novel research project on a selected topic in Deep Learning and Neuromorphic Computing.
+* **Attendance (50%):** On-time attendance at all meetings. All absences should be communicated in advance to your tutor.
+* **Midterm Presentation (10%):** Occurring in Week 5, these will be recorded or in-person slide deck presentations on your research in progress.
+* **Final Presentation (10%):** Occurring in Week 10, this will summarize your work.
+* **Final Project (20%):** The final deliverable will be an in-progress or completed novel research project on a selected topic in Deep Learning and Neuromorphic Computing.
+* **Peer Evaluation (10%)**
 
 ## Schedule 
 | Week(s) | Focus | Deliverables | 
