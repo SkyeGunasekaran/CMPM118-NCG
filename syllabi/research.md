@@ -28,7 +28,7 @@ This course serves as a structured pathway for undergraduate researchers in the 
 * **Midterm Presentation (10%):** Occurring in Week 5, these will be recorded or in-person slide deck presentations on your research in progress.
 * **Final Presentation (10%):** Occurring in Week 10, this will summarize your work.
 * **Final Project (20%):** The final deliverable will be an in-progress or completed novel research project on a selected topic in Deep Learning and Neuromorphic Computing.
-* **Peer Evaluation (10%):** Must be completed to receive 10%. Severe lack of contributions will scale your overall grade down.
+* **Peer Evaluation (10%):** Must be completed to receive 10%. A lack of useful contributions will scale your overall grade down.
 
 ## Schedule 
 | Week(s) | Focus | Deliverables | 
